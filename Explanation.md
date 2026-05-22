@@ -19,3 +19,5 @@ d.ExcelFileWithUVRIndex.ipynb — UVR Index Computation
 
 Generates the final Excel dataset containing the Urban Visual Reprogrammability (UVR) Index for each geographic point.
 After manually assigning contribution scores to each detected urban element class, the notebook computes the UVR Index using the methodology described in the research project.
+
+The repository also includes the full research paper titled “Reimagining the City as an Editable Canvas_FF_FM”, containing the conceptual framework, methodology, taxonomy, scoring system, and discussion of the Urban Visual Reprogrammability (UVR) research project.
